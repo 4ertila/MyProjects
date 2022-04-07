@@ -1,0 +1,3 @@
+D:\C++\Bones\Debug\Bones.exe
+D:\C++\Bones\Debug\Bones.pdb
+D:\C++\programms\игрулины\Bones\Debug\Bones.exe

@@ -1,0 +1,3 @@
+D:\C++\Gallows\Debug\Gallows.exe
+D:\C++\Gallows\Debug\Gallows.pdb
+D:\C++\programms\игрулины\Gallows\Debug\Gallows.exe
