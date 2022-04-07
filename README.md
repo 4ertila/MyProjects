@@ -1,4 +1,4 @@
-Descriptions projects:<\n>
-  -"Draw" draws a quadrangle by the given coordinates, also determines the perimeter, area.
-  -"Bones" is dice game
-  -"Gallows" is hangman game
+Descriptions projects:<br/>
+  -"Draw" draws a quadrangle by the given coordinates, also determines the perimeter, area.<br/>
+  -"Bones" is dice game<br/>
+  -"Gallows" is hangman game<br/>
